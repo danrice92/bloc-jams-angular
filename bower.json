@@ -1,0 +1,24 @@
+{
+  "name": "bloc-jams-angular",
+  "description": "Starter project for the Bloc Frontend Web Development",
+  "main": "server.js",
+  "authors": [
+    "Bloc Inc"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Bloc",
+    "Jams"
+  ],
+  "homepage": "https://github.com/danrice92/bloc-jams-angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ionicons": "ionicons#^2.0.1"
+  }
+}
